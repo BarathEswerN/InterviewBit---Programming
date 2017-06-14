@@ -2,7 +2,6 @@ public class Solution {
 	public ArrayList<Integer> wave(ArrayList<Integer> a) {
 	    
 	    Collections.sort(a);
-	    
 	    int i = 1;
 	    
 	    while (i < a.size()) {
